@@ -1,0 +1,6 @@
+2022-05-08 22:40:01,356 TRACE a.DemoLog4j [main] Trace Message!
+2022-05-08 22:40:01,364 DEBUG a.DemoLog4j [main] Debug Message!
+2022-05-08 22:40:01,364 INFO a.DemoLog4j [main] Info Message!
+2022-05-08 22:40:01,364 WARN a.DemoLog4j [main] Warn Message!
+2022-05-08 22:40:01,364 ERROR a.DemoLog4j [main] Error Message!
+2022-05-08 22:40:01,364 FATAL a.DemoLog4j [main] Fatal Message!

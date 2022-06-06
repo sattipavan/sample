@@ -1,0 +1,2 @@
+2022-04-09 15:55:33,963 ERROR a.DemoLog4j [main] Error Message!
+2022-04-09 15:55:33,964 FATAL a.DemoLog4j [main] Fatal Message!

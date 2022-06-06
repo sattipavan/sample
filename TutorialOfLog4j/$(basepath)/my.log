@@ -1,0 +1,16 @@
+2022-04-09 15:51:32,856 ERROR a.DemoLog4j [main] Error Message!
+2022-04-09 15:51:32,858 FATAL a.DemoLog4j [main] Fatal Message!
+2022-04-09 15:52:27,299 ERROR a.DemoLog4j [main] Error Message!
+2022-04-09 15:52:27,301 FATAL a.DemoLog4j [main] Fatal Message!
+2022-04-09 15:52:48,754 TRACE a.DemoLog4j [main] Trace Message!
+2022-04-09 15:52:48,756 DEBUG a.DemoLog4j [main] Debug Message!
+2022-04-09 15:52:48,756 INFO a.DemoLog4j [main] Info Message!
+2022-04-09 15:52:48,756 WARN a.DemoLog4j [main] Warn Message!
+2022-04-09 15:52:48,756 ERROR a.DemoLog4j [main] Error Message!
+2022-04-09 15:52:48,756 FATAL a.DemoLog4j [main] Fatal Message!
+2022-04-09 15:53:57,871 TRACE a.DemoLog4j [main] Trace Message!
+2022-04-09 15:53:57,873 DEBUG a.DemoLog4j [main] Debug Message!
+2022-04-09 15:53:57,892 INFO a.DemoLog4j [main] Info Message!
+2022-04-09 15:53:57,892 WARN a.DemoLog4j [main] Warn Message!
+2022-04-09 15:53:57,892 ERROR a.DemoLog4j [main] Error Message!
+2022-04-09 15:53:57,892 FATAL a.DemoLog4j [main] Fatal Message!
