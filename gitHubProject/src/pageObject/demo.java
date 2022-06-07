@@ -5,6 +5,9 @@ public class demo {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("demo1");
+		System.out.println("line1");
+		System.out.println("line2");
+		System.out.println("added one more as you requested");
 
 	}
 
